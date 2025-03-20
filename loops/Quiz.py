@@ -10,7 +10,7 @@ for i in range(2,10):
 print(i)
 
 
-#  remove the element which not in the list 
+#  remove the element which not in the list
 
 animals=["dog" ,"cat","horse"]
 animals.remove("lion")
